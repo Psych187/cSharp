@@ -1,0 +1,15 @@
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\bin\Debug\net6.0\task00_квадратЧисла.exe
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\bin\Debug\net6.0\task00_квадратЧисла.deps.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\bin\Debug\net6.0\task00_квадратЧисла.runtimeconfig.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\bin\Debug\net6.0\task00_квадратЧисла.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\bin\Debug\net6.0\task00_квадратЧисла.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\obj\Debug\net6.0\task00_квадратЧисла.csproj.AssemblyReference.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\obj\Debug\net6.0\task00_квадратЧисла.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\obj\Debug\net6.0\task00_квадратЧисла.AssemblyInfoInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\obj\Debug\net6.0\task00_квадратЧисла.AssemblyInfo.cs
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\obj\Debug\net6.0\task00_квадратЧисла.csproj.CoreCompileInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\obj\Debug\net6.0\task00_квадратЧисла.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\obj\Debug\net6.0\refint\task00_квадратЧисла.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\obj\Debug\net6.0\task00_квадратЧисла.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\obj\Debug\net6.0\task00_квадратЧисла.genruntimeconfig.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task00_квадратЧисла\obj\Debug\net6.0\ref\task00_квадратЧисла.dll
