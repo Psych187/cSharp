@@ -1,0 +1,15 @@
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\obj\Debug\net6.0\task08HT.csproj.AssemblyReference.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\obj\Debug\net6.0\task08HT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\obj\Debug\net6.0\task08HT.AssemblyInfoInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\obj\Debug\net6.0\task08HT.AssemblyInfo.cs
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\obj\Debug\net6.0\task08HT.csproj.CoreCompileInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\bin\Debug\net6.0\task08HT.exe
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\bin\Debug\net6.0\task08HT.deps.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\bin\Debug\net6.0\task08HT.runtimeconfig.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\bin\Debug\net6.0\task08HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\bin\Debug\net6.0\task08HT.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\obj\Debug\net6.0\task08HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\obj\Debug\net6.0\refint\task08HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\obj\Debug\net6.0\task08HT.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\obj\Debug\net6.0\task08HT.genruntimeconfig.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task08HT\obj\Debug\net6.0\ref\task08HT.dll
