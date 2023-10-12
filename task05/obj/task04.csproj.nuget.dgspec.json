@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task04\\task04.csproj": {}
+    "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task05\\task04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task04\\task04.csproj": {
+    "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task05\\task04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task04\\task04.csproj",
+        "projectUniqueName": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task05\\task04.csproj",
         "projectName": "task04",
-        "projectPath": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task04\\task04.csproj",
+        "projectPath": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task05\\task04.csproj",
         "packagesPath": "C:\\Users\\Ira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task04\\obj\\",
+        "outputPath": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ira\\AppData\\Roaming\\NuGet\\NuGet.Config"
