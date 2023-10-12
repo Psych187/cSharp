@@ -1,0 +1,15 @@
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\bin\Debug\net6.0\task02_HT.exe
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\bin\Debug\net6.0\task02_HT.deps.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\bin\Debug\net6.0\task02_HT.runtimeconfig.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\bin\Debug\net6.0\task02_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\bin\Debug\net6.0\task02_HT.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\obj\Debug\net6.0\task02_HT.csproj.AssemblyReference.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\obj\Debug\net6.0\task02_HT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\obj\Debug\net6.0\task02_HT.AssemblyInfoInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\obj\Debug\net6.0\task02_HT.AssemblyInfo.cs
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\obj\Debug\net6.0\task02_HT.csproj.CoreCompileInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\obj\Debug\net6.0\task02_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\obj\Debug\net6.0\refint\task02_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\obj\Debug\net6.0\task02_HT.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\obj\Debug\net6.0\task02_HT.genruntimeconfig.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task02_HT\obj\Debug\net6.0\ref\task02_HT.dll
