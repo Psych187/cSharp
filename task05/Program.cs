@@ -7,3 +7,8 @@ while (start <= numberA)
     Console.Write(start + " ");
     start = start + 1;
 }
+/*
+Console.Write("Enter number: ");
+for (int i = N * -1; i < N + 1; i++)
+System.Console.Write(i + " ");
+*/
