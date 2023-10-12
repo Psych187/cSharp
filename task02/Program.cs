@@ -29,3 +29,5 @@ if (userNumber == 7)
 {
     System.Console.WriteLine("Sunday");
 }
+else 
+System.Console.WriteLine("There is no such day of the week");
