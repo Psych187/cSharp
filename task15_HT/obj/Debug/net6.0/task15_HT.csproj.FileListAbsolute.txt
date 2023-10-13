@@ -1,0 +1,15 @@
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\bin\Debug\net6.0\task15_HT.exe
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\bin\Debug\net6.0\task15_HT.deps.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\bin\Debug\net6.0\task15_HT.runtimeconfig.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\bin\Debug\net6.0\task15_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\bin\Debug\net6.0\task15_HT.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\obj\Debug\net6.0\task15_HT.csproj.AssemblyReference.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\obj\Debug\net6.0\task15_HT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\obj\Debug\net6.0\task15_HT.AssemblyInfoInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\obj\Debug\net6.0\task15_HT.AssemblyInfo.cs
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\obj\Debug\net6.0\task15_HT.csproj.CoreCompileInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\obj\Debug\net6.0\task15_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\obj\Debug\net6.0\refint\task15_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\obj\Debug\net6.0\task15_HT.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\obj\Debug\net6.0\task15_HT.genruntimeconfig.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task15_HT\obj\Debug\net6.0\ref\task15_HT.dll
