@@ -1,0 +1,15 @@
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\bin\Debug\net6.0\task29_HT.exe
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\bin\Debug\net6.0\task29_HT.deps.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\bin\Debug\net6.0\task29_HT.runtimeconfig.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\bin\Debug\net6.0\task29_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\bin\Debug\net6.0\task29_HT.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\obj\Debug\net6.0\task29_HT.csproj.AssemblyReference.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\obj\Debug\net6.0\task29_HT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\obj\Debug\net6.0\task29_HT.AssemblyInfoInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\obj\Debug\net6.0\task29_HT.AssemblyInfo.cs
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\obj\Debug\net6.0\task29_HT.csproj.CoreCompileInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\obj\Debug\net6.0\task29_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\obj\Debug\net6.0\refint\task29_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\obj\Debug\net6.0\task29_HT.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\obj\Debug\net6.0\task29_HT.genruntimeconfig.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task29_HT\obj\Debug\net6.0\ref\task29_HT.dll
