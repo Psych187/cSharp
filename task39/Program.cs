@@ -26,17 +26,13 @@ int Prompt(string massage)
 
 void PrintArray(int[] arr)
 {
-    Console.ForegroundColor = ConsoleColor.Green;
     System.Console.Write("[");
     for (int i = 0; i < arr.Length; i++)
     {
-        Console.ForegroundColor = ConsoleColor.Cyan;
-        Thread.Sleep(1);
         System.Console.Write(arr[i]);
         if (i < arr.Length - 1)
             System.Console.Write(", ");
     }
-    Console.ForegroundColor = ConsoleColor.Green;
     System.Console.Write("]");
     Console.ResetColor();
 }
