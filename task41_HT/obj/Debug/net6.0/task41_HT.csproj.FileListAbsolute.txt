@@ -1,0 +1,15 @@
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\bin\Debug\net6.0\task41_HT.exe
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\bin\Debug\net6.0\task41_HT.deps.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\bin\Debug\net6.0\task41_HT.runtimeconfig.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\bin\Debug\net6.0\task41_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\bin\Debug\net6.0\task41_HT.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\obj\Debug\net6.0\task41_HT.csproj.AssemblyReference.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\obj\Debug\net6.0\task41_HT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\obj\Debug\net6.0\task41_HT.AssemblyInfoInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\obj\Debug\net6.0\task41_HT.AssemblyInfo.cs
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\obj\Debug\net6.0\task41_HT.csproj.CoreCompileInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\obj\Debug\net6.0\task41_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\obj\Debug\net6.0\refint\task41_HT.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\obj\Debug\net6.0\task41_HT.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\obj\Debug\net6.0\task41_HT.genruntimeconfig.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task41_HT\obj\Debug\net6.0\ref\task41_HT.dll
