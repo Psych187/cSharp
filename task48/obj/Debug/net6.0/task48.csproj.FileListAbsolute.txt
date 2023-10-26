@@ -1,0 +1,15 @@
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\bin\Debug\net6.0\task48.exe
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\bin\Debug\net6.0\task48.deps.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\bin\Debug\net6.0\task48.runtimeconfig.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\bin\Debug\net6.0\task48.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\bin\Debug\net6.0\task48.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\obj\Debug\net6.0\task48.csproj.AssemblyReference.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\obj\Debug\net6.0\task48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\obj\Debug\net6.0\task48.AssemblyInfoInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\obj\Debug\net6.0\task48.AssemblyInfo.cs
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\obj\Debug\net6.0\task48.csproj.CoreCompileInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\obj\Debug\net6.0\task48.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\obj\Debug\net6.0\refint\task48.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\obj\Debug\net6.0\task48.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\obj\Debug\net6.0\task48.genruntimeconfig.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task48\obj\Debug\net6.0\ref\task48.dll
