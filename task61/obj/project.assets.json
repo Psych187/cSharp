@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task59\\task59.csproj",
-      "projectName": "task59",
-      "projectPath": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task59\\task59.csproj",
+      "projectUniqueName": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task61\\task61.csproj",
+      "projectName": "task61",
+      "projectPath": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task61\\task61.csproj",
       "packagesPath": "C:\\Users\\Ira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task59\\obj\\",
+      "outputPath": "C:\\Users\\Ira\\OneDrive\\Documents\\JS Dev\\курс GB\\C#\\practice\\task61\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ira\\AppData\\Roaming\\NuGet\\NuGet.Config"
