@@ -1,0 +1,15 @@
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\bin\Debug\net6.0\task66_Att.exe
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\bin\Debug\net6.0\task66_Att.deps.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\bin\Debug\net6.0\task66_Att.runtimeconfig.json
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\bin\Debug\net6.0\task66_Att.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\bin\Debug\net6.0\task66_Att.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\obj\Debug\net6.0\task66_Att.csproj.AssemblyReference.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\obj\Debug\net6.0\task66_Att.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\obj\Debug\net6.0\task66_Att.AssemblyInfoInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\obj\Debug\net6.0\task66_Att.AssemblyInfo.cs
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\obj\Debug\net6.0\task66_Att.csproj.CoreCompileInputs.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\obj\Debug\net6.0\task66_Att.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\obj\Debug\net6.0\refint\task66_Att.dll
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\obj\Debug\net6.0\task66_Att.pdb
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\obj\Debug\net6.0\task66_Att.genruntimeconfig.cache
+C:\Users\Ira\OneDrive\Documents\JS Dev\курс GB\C#\practice\task66_Att\obj\Debug\net6.0\ref\task66_Att.dll
